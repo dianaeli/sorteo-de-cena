@@ -1,2 +1,2 @@
 # sorteo-de-cena
-maquetacion web resposive de un sorteo .
+maquetacion web,publicidad de un sorteo .
